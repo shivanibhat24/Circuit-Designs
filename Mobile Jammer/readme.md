@@ -10,7 +10,7 @@ A mobile jammer disrupts communication by adding noise to the frequency band use
 
 ---
 
-## 📋 Components Specifications  
+## 📋 Components used and their Specifications  
 | Component         | Specification              |
 |-------------------|---------------------------|
 | **Transistor**     | NPN (2N3707)              |
