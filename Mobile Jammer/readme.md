@@ -8,6 +8,8 @@ A mobile jammer disrupts communication by adding noise to the frequency band use
 ## 🛠 Software Used  
 - **Proteus** (alternatives: LtSpice, Multisim)
 
+## Access the circuit diagram here: https://github.com/shivanibhat24/Circuit-Designs/blob/main/Mobile%20Jammer/Mobile%20Jammer.pdsprj
+
 ---
 
 ## 📋 Components used and their Specifications  
