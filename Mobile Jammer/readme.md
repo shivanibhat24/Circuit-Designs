@@ -55,6 +55,13 @@ The oscilloscope captures the noise signal as a distorted, variable waveform tha
 - [SPICE Simulation](https://www.analog.com/en/design-center/design-tools-and-calculators/spice-sim-tools.html)  
 
 --
+## Additional Footnotes
+
+- To change the value of the frequency, the values of the 22nH inductor and 15pf capacitor must be changed accordingly
+- To find the range of frequency of the circuit: 1/r(2*pi*root of (L*C))
+- If you choose a capacitor of 1pF and inductor less than 22nH, the circuit will produce 1GHz, meaning that frequencies upto 1GHz can be jammed.
+
+--
 Onwards and Upwards!
 
 Happy Designing!
