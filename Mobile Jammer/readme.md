@@ -1,7 +1,7 @@
 # 📡 Mobile Jammer Circuit
 
 ## Why This Circuit?  
-A mobile jammer disrupts communication by adding noise to the frequency band used by mobile phones. This circuit generates noise in the communication band to cause signal interference. 
+A mobile jammer disrupts communication by adding noise to the frequency band used by mobile phones. This circuit generates noise in the communication band to cause signal interference. We aim to target the 455Mhz zfrequency band here, which is primarily used in mobile communication.
 
 ---
 
